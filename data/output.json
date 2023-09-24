@@ -1,0 +1,114 @@
+{
+  "workouts": [
+    {
+      "date": "13 Sep 2023",
+      "exercises": [
+        {
+          "name": "Incline Dumbbell Press",
+          "sets": [
+            [
+              {
+                "weight": "24",
+                "reps": "10",
+                "description": "PLACEHOLDER DESCRIPTION"
+              }
+            ],
+            [
+              {
+                "weight": "27",
+                "reps": "6",
+                "description": "PLACEHOLDER DESCRIPTION"
+              }
+            ],
+            [
+              {
+                "weight": "27",
+                "reps": "5",
+                "description": "PLACEHOLDER DESCRIPTION"
+              }
+            ],
+            [
+              {
+                "weight": "17",
+                "reps": "2",
+                "description": "PLACEHOLDER DESCRIPTION"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "date": "23 Aug 2023",
+      "exercises": [
+        {
+          "name": "Shoulder Press",
+          "sets": [
+            [
+              {
+                "weight": "24",
+                "reps": "30",
+                "description": "PLACEHOLDER DESCRIPTION"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "date": "23 Jul 2023",
+      "exercises": [
+        {
+          "name": "Tricep extension",
+          "sets": [
+            [
+              {
+                "weight": "24",
+                "reps": "10",
+                "description": "PLACEHOLDER DESCRIPTION"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "date": "21 Jul 2023",
+      "exercises": [
+        {
+          "name": "Rear delt pulls",
+          "sets": [
+            [
+              {
+                "weight": "24",
+                "reps": "10",
+                "description": "PLACEHOLDER DESCRIPTION"
+              }
+            ],
+            [
+              {
+                "weight": "24",
+                "reps": "10",
+                "description": "PLACEHOLDER DESCRIPTION"
+              }
+            ],
+            [
+              {
+                "weight": "24",
+                "reps": "10",
+                "description": "PLACEHOLDER DESCRIPTION"
+              }
+            ],
+            [
+              {
+                "weight": "24",
+                "reps": "10",
+                "description": "PLACEHOLDER DESCRIPTION"
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
